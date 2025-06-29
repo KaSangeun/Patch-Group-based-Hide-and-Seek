@@ -14,7 +14,8 @@ Various data augmentation techniques have been proposed in Convolutional Neural 
 ## Run
 ### 1. Download Pre-trained Model ([Official Checkpoiont](https://console.cloud.google.com/storage/browser/vit_models?pli=1&inv=1&invt=Ab1bZw))
 - ImageNet21k pre-trained models
-  - ViT-B_16
+  - ViT-B_16 
+
 Download the .npz checkpoint file and place it in the checkpoint folder.
 
 ### 2. Train Model
